@@ -1,2 +1,2 @@
-# Blog of Donghee Kim
-## https://developdh.github.io/blog/
+# DevelopDH
+## https://developdh.github.io
